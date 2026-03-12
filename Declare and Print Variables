@@ -1,0 +1,16 @@
+import java.io.*;
+import java.util.*;
+public class solution{
+    public static void main(String[]arg){
+    int p;
+    Float q;
+    String r;
+      Scanner mr=new Scanner(System.in);
+      p= mr.nextInt();
+      q= mr.nextFloat();
+      r= mr.next();
+      System.out.println(p);
+      System.out.println(q);
+      System.out.println(r);
+    }
+}
